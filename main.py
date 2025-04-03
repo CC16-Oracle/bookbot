@@ -15,7 +15,6 @@ def main():
     
         
     
-    print(f"{get_num_words(get_book_text(sys.argv[1]))} words found in the document.")
     print("============ BOOKBOT ============")
     print(f"Analyzing book found at {sys.argv[1]}...")
     print("----------- Word Count ----------")
